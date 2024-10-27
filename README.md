@@ -4,7 +4,6 @@ Welcome to the **QR Code Generator** project! This repository contains a simple 
 
 ## 📜 Features
 - **Generate QR Codes**: Convert text, URLs, or any other string into QR codes instantly.
-- **Customize QR Codes**: Adjust size, color, and format to make each QR unique! 🎨
 - **Save and Share**: Save generated QR codes as images for easy sharing. 📁
 
 ## 🔧 Installation
