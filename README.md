@@ -13,3 +13,12 @@ To get started, clone this repository and install the required libraries:
 git clone https://github.com/Anwaar-Ahmad9212/QR_code.git
 cd QR_code
 pip install -r requirements.txt
+
+## 🤝 Support / Help
+
+Need assistance or help with **Python**, **C++**, or **Linux commands**? I'm here to help! Feel free to reach out at:
+
+📧 **[anwaarahmad9212@gmail.com](mailto:email.com)**
+
+Whether you're troubleshooting code, need guidance, or have questions about this QR Code Generator, don't hesitate to contact me.
+
