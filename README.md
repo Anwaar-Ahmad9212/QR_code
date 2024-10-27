@@ -21,4 +21,3 @@ Need assistance or help with **Python**, **C++**, or **Linux commands**? I'm her
 📧 **[anwaarahmad9212@gmail.com](mailto:email.com)**
 
 Whether you're troubleshooting code, need guidance, or have questions about this QR Code Generator, don't hesitate to contact me.
-
