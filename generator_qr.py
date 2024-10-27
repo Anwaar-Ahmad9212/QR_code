@@ -11,6 +11,3 @@ url_whatsapp = "https://api.whatsapp.com/send/?phone=923478661176&text=Asslamoal
 whatsapp = qrcode.make(url_whatsapp)
 whatsapp.save("whatsapp.png")
 
-
-instagram = qrcode.make("https://www.instagram.com/me_anwaarahmad/profilecard/?igsh=OG43bW9yajF5MDY5" )
-instagram.save("instagram.png")
