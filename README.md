@@ -45,15 +45,17 @@ Each QR code is saved as an individual image file, ready to be shared digitally 
 - **Instagram**: Links to an Instagram profile.
 
 ## 🤝 Support / Help
-**Hidden Code**: To get code of Output_image.png in which the text is placed at bottom feel free to contact me. 🤙
 
 Need assistance or help with **Python**, **C++**, or **Linux commands**? I'm here to help! Feel free to reach out at:
 
 📧 **[anwaarahmad9212@gmail.com](mailto:email.com)**
+
+- **Hidden Code**: To get code of Output_image.png in which the text is placed at bottom feel free to contact me. 🤙
+
+Whether you're troubleshooting code, need guidance, or have questions about this QR Code Generator, don't hesitate to contact me.
 
 ## License
 
 This project is open-source and licensed under the MIT License.
 
 ---
-
